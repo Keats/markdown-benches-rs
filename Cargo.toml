@@ -1,0 +1,9 @@
+[package]
+name = "markdown-benches"
+version = "0.1.0"
+authors = ["Vincent Prouillet <vincent@wearewizards.io>"]
+
+[dependencies]
+comrak = "0.1"
+pulldown-cmark = "0.0.14"
+lazy_static = "0.2"
